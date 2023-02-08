@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: 'Nunito';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.auto {
+  margin: 0 auto;
+}
+
+.margin-0 {
+  margin: 0;
+}
+
+.padding-0 {
+  padding: 0;
+}
+
+.font-w600 {
+  font-weight: 600;
+}
+
+.font-w700 {
+  font-weight: 700;
+}
+
+.font-s12 {
+  font-size: 12px;
+}
+
+.font-s14 {
+  font-size: 14px;
+}
+
+.font-s60 {
+  font-size: 60px;
+}
+
+.bg-blue {
+  background-color: #697BFF;
+}
+
+.btn-blue {
+  background: #4E60FF;
+  box-shadow: 0px 8px 20px rgba(78, 96, 255, 0.16);
+  border-radius: 8px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 10px 0;
+  /* margin-top: 50px; */
+  margin-bottom: 25px;
+}
+
+.text-black {
+  color: #2B2B43;
+}
+
+.text-gray {
+  color: #545563;
+}
+
+.text-blue {
+  color: #4E60FF;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
